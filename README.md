@@ -1,4 +1,4 @@
-#👋 Hi, I'm Surabhi Bhadkamkar
+# 👋 Hi, I'm Surabhi Bhadkamkar
 
 ### 💻 Full Stack Developer | Creative Problem Solver | Tech Enthusiast
 
